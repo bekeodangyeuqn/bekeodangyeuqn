@@ -32,7 +32,7 @@
 <br>
 <h2 align="center">Contact me (>人<)</h2>
 <br>
-<p align="center"><a href="https://www.facebook.com/mu.leduy" target="_blank"><img src="https://img.shields.io/badge/Facebook%20-%231DA1F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/></a> <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a></p>
+<p align="center"><a href="https://www.facebook.com/mu.leduy" target="_blank"><img src="https://img.shields.io/badge/Facebook%20-%231DA1F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/></a> <a href="https://twitter.com/LeDuyThai5" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a></p>
 </div>
 <br>
 <div>
