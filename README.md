@@ -38,12 +38,11 @@
 <div>
 <h2 align="center">Thanks for reading (ღ˘⌣˘ღ)</h2>
 <div align="center">
-<img src="https://static.zerochan.net/Kamio.Misuzu.full.2919078.gif" align="left">
+<img src="https://64.media.tumblr.com/tumblr_lzyvlsAeqL1qbvovho1_500.gifv" align="left">
 </div>
 <hr>
 </div>
 </div>
 </body>
-``
 
 
