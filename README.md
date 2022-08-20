@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Alt Text](https://animesher.com/orig/0/39/393/3936/animesher.com_mikuru-asahina-haruhi-suzumiya-cute-393655.gif)
+![This is a gif](https://animesher.com/orig/0/39/393/3936/animesher.com_mikuru-asahina-haruhi-suzumiya-cute-393655.gif)
 
 **bekeodangyeuqn/bekeodangyeuqn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
