@@ -1,12 +1,12 @@
 <body>
-<h1 align="center">Welcome (づ｡◕‿‿◕｡)づ</h1>
+<h1 align="center">Welcome (>‿◠)✌</h1>
 <br>
 <div align="center">
 <img src="https://i.pinimg.com/originals/a6/19/67/a619673117125727cf9c13af1b22e949.gif" />
 </div>
 <br>
 <div>
-<h2 align="center">About me (~˘▾˘)~</h2>
+<h2 align="center">About me  (•◡•) /</h2>
 <li>
 <b>Name:</b> Le Duy Thai</li>
 <li>
