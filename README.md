@@ -1,10 +1,10 @@
 <body>
 <h1 align="center">Welcome (>‿◠)✌</h1>
-<br>
+<br />
 <div align="center">
 <img src="https://i.pinimg.com/originals/a6/19/67/a619673117125727cf9c13af1b22e949.gif" />
 </div>
-<br>
+<br />
 <div>
 <h2 align="center">About me  (•◡•) /</h2>
 <li>
@@ -19,7 +19,7 @@
 <b>Loves:</b> Web Development, Japanese.
 </li>
 </div>
-<br>
+<br />
 
 <div>
 <img src="https://media2.giphy.com/media/7hW7hXXri33NK/giphy.gif" align="right">
@@ -31,14 +31,30 @@
 </p>
 </div>
 
-<div>
-<br>
+<br />
+<br />
+<br />
+
 <hr>
+<p>
+<h2 align="center">My stats ᕦ(ò_óˇ)ᕤ</h2>
+<br />
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=bekeodangyeuqn&show_icons=true&theme=tokyonight" alt="My stats" width="49.5%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bekeodangyeuqn&theme=tokyonight" alt="streak" width="49.5%">
+</p>
+</p>
+
+<br />
+<hr>
+<p>
 <h2 align="center">Contact me (>人<)</h2>
 <br>
 <p align="center"><a href="https://www.facebook.com/mu.leduy" target="_blank"><img src="https://img.shields.io/badge/Facebook%20-%231DA1F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/></a> <a href="https://twitter.com/LeDuyThai5" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a></p>
+</p>
 
-<br>
+<br />
+<hr>
 <div>
 <h2 align="center">Thanks for reading (ღ˘⌣˘ღ)</h2>
 <div align="center">
