@@ -61,9 +61,6 @@
  <a href="https://twitter.com/LeDuyThai5" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
  </a>
- <a href="https://myanimelist.net/profile/thai130102" target="_blank">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e5314c05-8591-4e58-b014-9d103866bef4/da2lg7c-f88b45d1-f397-4f3e-aea6-fb327ed99aad.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U1MzE0YzA1LTg1OTEtNGU1OC1iMDE0LTlkMTAzODY2YmVmNFwvZGEybGc3Yy1mODhiNDVkMS1mMzk3LTRmM2UtYWVhNi1mYjMyN2VkOTlhYWQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.zKbU7-SJtv4uhpEW0LxhwlrODTDLY_IytqPqf0ErgQ8" />
- </a>
  </p>
 </p>
 
