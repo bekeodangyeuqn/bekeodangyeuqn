@@ -2,21 +2,25 @@
 <h1 align="center">Welcome (>‿◠)✌</h1>
 <br />
 <div align="center">
-<img src="https://i.pinimg.com/originals/a6/19/67/a619673117125727cf9c13af1b22e949.gif" />
+<img src="https://4.bp.blogspot.com/-YuZ4EMdfNDg/U1T4PQ08UzI/AAAAAAAAfgQ/ThG5udslmx4/s800/text_youkoso.png" />
 </div>
 <br />
 <div>
 <h2 align="center">About me  (•◡•) /</h2>
 <li>
-<b>Name:</b> Le Duy Thai</li>
+  <b>Name:</b> Le Duy Thai
+</li>
 <li>
-<b>Hobbies: Baseball, Reading, Anime, J-pop</b> 
+  <b>Birthday:</b> 13/01/2002
+</li>
+<li>
+<b>Hobbies:</b> Baseball, Reading, Anime, J-pop
 </li>
 <li>
 <b>Sex:</b> Male 
 </li>
 <li>
-<b>Loves:</b> Web Development, Japanese.
+<b>Loves:</b> Web Development, Japanese language.
 </li>
 </div>
 <br />
