@@ -58,7 +58,7 @@
 <div>
 <h2 align="center">Thanks for reading (ღ˘⌣˘ღ)</h2>
 <div align="center">
-<img src="https://64.media.tumblr.com/tumblr_lzyvlsAeqL1qbvovho1_500.gifv">
+<img src="https://spirituabreath.com/wp-content/uploads/2018/08/Dream-divination-Thank-you.jpg">
 </div>
 <hr>
 </div>
