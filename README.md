@@ -31,7 +31,7 @@
 <p align="center"> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/React%20-%231572B6.svg?&style=for-the-badge&logo=react&logoColor=white"/><br><br>
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" /> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekeodangyeuqn" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekeodangyeuqn&locale=ja" alt="Top Langs"/>
 <!--   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bekeodangyeuqn) -->
 </p>
 </div>
@@ -45,8 +45,8 @@
 <h2 align="center">My stats ᕦ(ò_óˇ)ᕤ</h2>
 <br />
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=bekeodangyeuqn&show_icons=true&theme=tokyonight" alt="My stats" width="49.5%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bekeodangyeuqn&theme=tokyonight" alt="streak" width="49.5%">
+<img src="https://github-readme-stats.vercel.app/api?username=bekeodangyeuqn&show_icons=true&theme=tokyonight&locale=ja" alt="My stats" width="49.5%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bekeodangyeuqn&theme=tokyonight&locale=ja" alt="streak" width="49.5%">
 </p>
 </p>
 
